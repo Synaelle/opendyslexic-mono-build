@@ -1,0 +1,5 @@
+brotli==1.2.1
+fontmake==3.12.2
+fonttools==4.68.0
+glyphsLib==6.16.2
+ufo2ft==3.9.1
